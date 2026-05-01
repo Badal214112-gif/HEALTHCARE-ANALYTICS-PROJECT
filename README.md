@@ -33,3 +33,5 @@ This project is shared as a portfolio piece and can be reused by others as a ref
 
 ## PROJECT
 - <a href="https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Project%201.xlsx">Project</a>
+<img width="1490" height="728" alt="Screenshot 2025-07-27 184940" src="https://github.com/user-attachments/assets/cce2c435-9076-45cc-83b4-fcce6f8823de" />
+
